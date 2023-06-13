@@ -1,0 +1,21 @@
+# Funzionalità Operative
+
+- Ha la funzionalità di scaricare qualsiasi file collegato a quel servizio/prodotto.
+- Ha la funzionalità di caricare o sostituire qualsiasi file collegato a quel servizio/prodotto.
+- Ha la funzionalità di navigare nella timeline degli step lavorativi, avanzando o arretrando la richiesta tra gli step lavorativi.
+- Ha la funzionalità di cambiare il fornitore assegnato a un step di lavorazione automatico. (funzionalità non necessaria, da validare)
+- Ha la funzionalità di cambiare il template di evasione di un step lavorativo automatico se disponibile per quello prodotto.
+- Ha la funzionalità di assegnare un step lavorativo manuale ad un operatore.
+- Ha la funzionalità di aggiungere una Nota/commento ad un elemento.
+- Ha la funzionalità di aggiungere una Nota o commento ad una riga di storico.
+- Campo assegnabile per un Gestore/Responsabile della lavorazione. Non si tratta di una assegnazione operatore, ma di assegnare un responsabile generale per quella richiesta, che dovrà intervenire o essere assegnato come operatore per tutti i passaggi che non prevedono operatore specifico.
+- Possibilità di evasione parziale.
+- Possibilità di mantenere il nome del file originale nella evasione. (Rename alla fine prima della evasione)
+- Controllo delle scadenze di ogni step lavorativo manuale.
+- Possibilità di evadere un file tramite, FTP, Email, SFTP o altro.
+- Chat tra gli operatori. (funzionalità non necessaria)
+- Inviare mail al cliente, tramite il sistema di notifiche.
+- Ha la funzionalità di gestire dati dell’elemento/”sotto prodotto”.(funzionalità non necessaria o da rivedere)
+- Un filtro che permette di visualizzare soltanto le richieste non assegnate a nessuno.
+- Gestioni di assegnazione automatica a fornitori, basata su priorità e limite di capienza per periodo. (funzionalità non necessaria)
+- Una delle funzionalità disponibile tramite permesso deve essere quella di cambiare l'associazione Prodotto -> Fornitore WS. (funzionalità non necessaria)
